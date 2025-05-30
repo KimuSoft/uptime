@@ -23,7 +23,7 @@ status-website:
   cname: uptime.kimustory.net
   logoUrl: https://kimustory.net/logo.svg
   name: Kimustory Uptime
-  introTitle: "키뮤스토리에요!"
+  introTitle: "키뮤스토리 업타임"
   introMessage: "**키뮤스토리**에서 만든 서비스들의 업타임을 확인해봐요!"
   navbar:
     - title: Status
@@ -39,3 +39,4 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+  
