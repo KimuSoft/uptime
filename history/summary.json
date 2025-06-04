@@ -130,17 +130,19 @@
     "url": "https://accounts.kimustory.net",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.kimustory.net.ico",
     "slug": "account",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 688,
-    "timeDay": 652,
-    "timeWeek": 688,
-    "timeMonth": 688,
-    "timeYear": 688,
-    "dailyMinutesDown": {}
+    "time": 659,
+    "timeDay": 569,
+    "timeWeek": 659,
+    "timeMonth": 659,
+    "timeYear": 659,
+    "dailyMinutesDown": {
+      "2025-06-04": 0
+    }
   }
 ]
