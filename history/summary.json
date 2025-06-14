@@ -94,19 +94,19 @@
     "url": "https://music.kimustory.net/",
     "icon": "https://icons.duckduckgo.com/ip3/music.kimustory.net.ico",
     "slug": "sound-gallery",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1283,
-    "timeDay": 1084,
-    "timeWeek": 1255,
-    "timeMonth": 1283,
-    "timeYear": 1283,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1296,
+    "timeDay": 1229,
+    "timeWeek": 1284,
+    "timeMonth": 1296,
+    "timeYear": 1296,
     "dailyMinutesDown": {
-      "2025-06-14": 20
+      "2025-06-14": 31
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/muvel.app.ico",
     "slug": "muvel",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.86%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 947,
     "timeDay": 887,
     "timeWeek": 914,
     "timeMonth": 947,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2025-06-14": 20
+      "2025-06-14": 31
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://accounts.kimustory.net",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.kimustory.net.ico",
     "slug": "account",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 688,
-    "timeDay": 643,
-    "timeWeek": 691,
-    "timeMonth": 688,
-    "timeYear": 688,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 687,
+    "timeDay": 652,
+    "timeWeek": 689,
+    "timeMonth": 687,
+    "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-06-14": 0,
+      "2025-06-14": 11,
       "2025-06-04": 20
     }
   }
