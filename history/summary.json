@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/music.kimustory.net.ico",
     "slug": "sound-gallery",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1283,
     "timeDay": 1084,
     "timeWeek": 1255,
     "timeMonth": 1283,
     "timeYear": 1283,
     "dailyMinutesDown": {
-      "2025-06-14": 0
+      "2025-06-14": 20
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/muvel.app.ico",
     "slug": "muvel",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 947,
     "timeDay": 887,
     "timeWeek": 914,
     "timeMonth": 947,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2025-06-14": 0
+      "2025-06-14": 20
     }
   },
   {
@@ -134,18 +134,19 @@
     "url": "https://accounts.kimustory.net",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.kimustory.net.ico",
     "slug": "account",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 697,
-    "timeDay": 750,
-    "timeWeek": 713,
-    "timeMonth": 697,
-    "timeYear": 697,
+    "time": 688,
+    "timeDay": 643,
+    "timeWeek": 691,
+    "timeMonth": 688,
+    "timeYear": 688,
     "dailyMinutesDown": {
+      "2025-06-14": 0,
       "2025-06-04": 20
     }
   }
