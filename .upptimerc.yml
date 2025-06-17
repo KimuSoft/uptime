@@ -4,21 +4,23 @@ repo: uptime
 sites:
   - name: Kimustory
     url: https://kimustory.net
+  - name: Muvel
+    url: https://muvel.app
+  - name: Account
+    url: https://accounts.kimustory.net
   - name: Danoo
     url: http://danoo.kimustory.net/
-  - name: Yp Bot
-    url: https://yp.kimustory.net/
   - name: Dictionary
     url: https://dict.kimustory.net/
   - name: Archhive
     url: https://archhive.kimustory.net/
   - name: Sound Gallery
     url: https://music.kimustory.net/
-  - name: Muvel
-    url: https://muvel.app
-  - name: Account
-    url: https://accounts.kimustory.net
-
+  - name: Yp Bot
+    url: https://yp.kimustory.net/
+  - name: Ep Bot
+    url: https://ep.kimustory.net/
+    
 status-website:
   cname: uptime.kimustory.net
   logoUrl: https://kimustory.net/logo.svg
