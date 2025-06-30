@@ -13,7 +13,7 @@
     "time": 998,
     "timeDay": 0,
     "timeWeek": 1005,
-    "timeMonth": 998,
+    "timeMonth": 993,
     "timeYear": 998,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "https://muvel.app",
     "icon": "https://icons.duckduckgo.com/ip3/muvel.app.ico",
     "slug": "muvel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.89%",
-    "time": 904,
-    "timeDay": 0,
-    "timeWeek": 867,
-    "timeMonth": 904,
-    "timeYear": 904,
+    "time": 925,
+    "timeDay": 1684,
+    "timeWeek": 984,
+    "timeMonth": 921,
+    "timeYear": 925,
     "dailyMinutesDown": {
+      "2025-06-30": 0,
       "2025-06-16": 12,
       "2025-06-14": 38
     }
@@ -52,7 +53,7 @@
     "time": 703,
     "timeDay": 0,
     "timeWeek": 698,
-    "timeMonth": 703,
+    "timeMonth": 702,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2025-06-14": 11,
@@ -73,7 +74,7 @@
     "time": 998,
     "timeDay": 0,
     "timeWeek": 943,
-    "timeMonth": 998,
+    "timeMonth": 995,
     "timeYear": 998,
     "dailyMinutesDown": {}
   },
@@ -91,7 +92,7 @@
     "time": 2797,
     "timeDay": 0,
     "timeWeek": 2606,
-    "timeMonth": 2797,
+    "timeMonth": 2789,
     "timeYear": 2797,
     "dailyMinutesDown": {}
   },
@@ -109,7 +110,7 @@
     "time": 602,
     "timeDay": 0,
     "timeWeek": 586,
-    "timeMonth": 602,
+    "timeMonth": 598,
     "timeYear": 602,
     "dailyMinutesDown": {}
   },
@@ -127,7 +128,7 @@
     "time": 1274,
     "timeDay": 0,
     "timeWeek": 1221,
-    "timeMonth": 1274,
+    "timeMonth": 1269,
     "timeYear": 1274,
     "dailyMinutesDown": {
       "2025-06-14": 31
@@ -147,7 +148,7 @@
     "time": 634,
     "timeDay": 0,
     "timeWeek": 571,
-    "timeMonth": 634,
+    "timeMonth": 630,
     "timeYear": 634,
     "dailyMinutesDown": {}
   },
