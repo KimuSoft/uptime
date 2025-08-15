@@ -1,7 +1,7 @@
 url: https://accounts.kimustory.net
-status: up
-code: 200
-responseTime: 777
-lastUpdated: 2025-08-14T23:19:07.056Z
+status: down
+code: 502
+responseTime: 682
+lastUpdated: 2025-08-15T17:13:59.106Z
 startTime: 2025-05-30T14:23:45.964Z
 generator: Upptime <https://github.com/upptime/upptime>
