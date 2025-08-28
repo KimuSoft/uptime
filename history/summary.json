@@ -4,18 +4,20 @@
     "url": "https://kimustory.net",
     "icon": "https://icons.duckduckgo.com/ip3/kimustory.net.ico",
     "slug": "kimustory",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1147,
     "timeDay": 819,
     "timeWeek": 995,
     "timeMonth": 1087,
     "timeYear": 1147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 7
+    }
   },
   {
     "name": "Muvel",
@@ -24,12 +26,12 @@
     "slug": "muvel",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "92.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.57%",
     "time": 1179,
-    "timeDay": 1818,
+    "timeDay": 947,
     "timeWeek": 1398,
     "timeMonth": 1570,
     "timeYear": 1179,
@@ -51,11 +53,11 @@
     "url": "https://accounts.kimustory.net",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.kimustory.net.ico",
     "slug": "account",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 916,
     "timeDay": 685,
@@ -63,6 +65,7 @@
     "timeMonth": 825,
     "timeYear": 916,
     "dailyMinutesDown": {
+      "2025-08-28": 5,
       "2025-08-15": 18,
       "2025-06-14": 11,
       "2025-06-04": 20
@@ -91,54 +94,59 @@
     "url": "https://dict.kimustory.net/",
     "icon": "https://icons.duckduckgo.com/ip3/dict.kimustory.net.ico",
     "slug": "dictionary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2779,
     "timeDay": 2363,
     "timeWeek": 2849,
     "timeMonth": 2763,
     "timeYear": 2779,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 4
+    }
   },
   {
     "name": "Archhive",
     "url": "https://archhive.kimustory.net/",
     "icon": "https://icons.duckduckgo.com/ip3/archhive.kimustory.net.ico",
     "slug": "archhive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 725,
     "timeDay": 498,
     "timeWeek": 600,
     "timeMonth": 767,
     "timeYear": 725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 3
+    }
   },
   {
     "name": "Sound Gallery",
     "url": "https://music.kimustory.net/",
     "icon": "https://icons.duckduckgo.com/ip3/music.kimustory.net.ico",
     "slug": "sound-gallery",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 1382,
     "timeDay": 1068,
     "timeWeek": 1315,
     "timeMonth": 1302,
     "timeYear": 1382,
     "dailyMinutesDown": {
+      "2025-08-28": 2,
       "2025-06-14": 31
     }
   },
@@ -147,10 +155,10 @@
     "url": "https://yp.kimustory.net/",
     "icon": "https://icons.duckduckgo.com/ip3/yp.kimustory.net.ico",
     "slug": "yp-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 659,
@@ -158,16 +166,18 @@
     "timeWeek": 610,
     "timeMonth": 588,
     "timeYear": 659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 1
+    }
   },
   {
     "name": "Ep Bot",
     "url": "https://ep.kimustory.net/",
     "icon": "https://icons.duckduckgo.com/ip3/ep.kimustory.net.ico",
     "slug": "ep-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -176,6 +186,8 @@
     "timeWeek": 572,
     "timeMonth": 599,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 0
+    }
   }
 ]
