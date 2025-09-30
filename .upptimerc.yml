@@ -8,8 +8,8 @@ sites:
     url: https://muvel.app
   - name: Account
     url: https://accounts.kimustory.net
-  - name: Danoo
-    url: http://danoo.kimustory.net/
+  # - name: Danoo
+  #   url: http://danoo.kimustory.net/
   - name: Dictionary
     url: https://dict.kimustory.net/
   - name: Archhive
