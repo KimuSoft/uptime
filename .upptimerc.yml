@@ -6,8 +6,6 @@ sites:
     url: https://kimustory.net
   - name: Muvel
     url: https://muvel.app
-  - name: Account
-    url: https://accounts.kimustory.net
   # - name: Danoo
   #   url: http://danoo.kimustory.net/
   - name: Dictionary
